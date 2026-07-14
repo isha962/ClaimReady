@@ -115,7 +115,11 @@ See [`docs/API_REFERENCE.md`](docs/API_REFERENCE.md) for a summary of the respon
 
 ## Screenshots
 
-Add screenshots from the running frontend after local verification. The key views are:
+ The key views are:
+<img width="1470" height="956" alt="Facilities" src="https://github.com/user-attachments/assets/7d68e6fe-aa2a-4c7b-8285-1d5e9be3b6f0" />
+<img width="1470" height="956" alt="Pipeline health " src="https://github.com/user-attachments/assets/c06aabc1-17fa-48c9-b093-d56cc9be4876" />
+<img width="1470" height="956" alt="work queue" src="https://github.com/user-attachments/assets/ea90dcf9-6334-418a-be91-009c31b34654" />
+<img width="1465" height="872" alt="command centre" src="https://github.com/user-attachments/assets/c8bda874-a2c5-4284-b390-909934fa5d24" />
 
 - Command Center
 - Biller Work Queue
