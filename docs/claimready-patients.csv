@@ -1,0 +1,7 @@
+patient_external_id,patient_name,facility_id,route,readiness_score,active_part_b,primary_wound_key,missing_fields,conflicting_fields,recommended_next_action
+FA-001,Agnes Dunbar,101,auto_accept,100.0,True,patient:1:wound:1,,"depth_cm, documentation_state, length_cm, width_cm",Proceed to auto-accept.
+FA-002,Leon Dawson,101,reject,80.0,False,patient:2:wound:1,,"documentation_state, length_cm, width_cm",Do not route; active Medicare Part B is missing.
+FB-001,Nora Patel,102,auto_accept,100.0,True,patient:3:wound:1,,"depth_cm, documentation_state, length_cm, width_cm",Proceed to auto-accept.
+FB-002,Luis Gomez,102,reject,80.0,False,patient:4:wound:1,wound_type,"depth_cm, documentation_state, drainage_amount, length_cm, width_cm",Do not route; active Medicare Part B is missing.
+FC-001,Imani Cole,103,auto_accept,100.0,True,patient:5:wound:1,,"documentation_state, drainage_amount",Proceed to auto-accept.
+FC-002,Ruth Bell,103,reject,80.0,False,patient:6:wound:1,,"depth_cm, documentation_state, length_cm, width_cm",Do not route; active Medicare Part B is missing.
