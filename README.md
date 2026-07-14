@@ -2,6 +2,8 @@
 
 ClaimReady is a production-minded backend and frontend scaffold for the ABI Frameworks hackathon project.
 
+ClaimReady is an end-to-end healthcare data pipeline and operations dashboard that automates Medicare Part B wound care billing triage. It ingests EHR data from a mock PointClickCare API, extracts structured wound information from clinical documentation, reconciles conflicting evidence, evaluates billing eligibility, and presents billers with an auditable work queue through a FastAPI backend and Next.js frontend.
+
 Milestone 1 focuses on:
 
 - repository setup
